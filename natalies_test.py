@@ -8,10 +8,10 @@ Version : 0.0.1
 
 '''
 
-my_first_variable = 16
+my_first_variable = 2000
 my_second_variable = 423
 
 their_sum = my_first_variable + my_second_variable
-print('What\'s up!!')
+print('Heyyy, selam')
 print('Welcome to my first program')
 print(f'sum of {my_first_variable} and {my_second_variable} is {their_sum}')
